@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello World, I'm Karen🌍👋
 
 ---- 
@@ -7,13 +5,13 @@
 
 ## I'm a Front-end Developer 👩‍💻 
 
-## Things I like to do: 📋
+## Things I like to do 📋
 
-- * 🎨 Interfaces*
-- *🖥 Web Applications*
-- *📱 Applications*
+- 🎨 Interfaces*
+- 🖥 Web Applications*
+- 📱 Applications*
 
-## About me:🙋‍♀️
+## About me 🙋‍♀️
 
 
 - 🌱 I am always expanding my knowledge in JavaScript, Vue, Flutter, React 
@@ -31,7 +29,7 @@
 
 
 
-## Meet me: 💬 
+## Meet me 💬 
 
 [Linkedin](https://www.linkedin.com/in/ester-karen//licenses/Linkedin/)
 [Instagram](https://www.instagram.com/esterfirmo_//licenses/Instagram)
