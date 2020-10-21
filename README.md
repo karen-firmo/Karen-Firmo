@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**karen-firmo/Karen-Firmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World, I'm Karen🌍👋
 
-Here are some ideas to get you started:
+---- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a Front-end Developer 👩‍💻 
+
+## Things I like to do: 📋
+
+- * 🎨 Interfaces*
+- *🖥 Web Applications*
+- *📱 Applications*
+
+## About me:🙋‍♀️
+
+
+- 🌱 I am always expanding my knowledge in JavaScript, Vue, Flutter, React 
+   and NodeJS, GIT
+
+- 👯 I'm looking to collaborate on social impact projects
+
+- 💻 Working to face all the challenges that lie ahead.
+
+
+
+----
+                                
+![karen-firmo GitHub Stats](https://github-readme-stats.vercel.app/api?username=karen-firmo&show_icons=true)
+
+
+
+## Meet me: 💬 
+
+[Linkedin](https://www.linkedin.com/in/ester-karen//licenses/Linkedin/)
+[Instagram](https://www.instagram.com/esterfirmo_//licenses/Instagram)
