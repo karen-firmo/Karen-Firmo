@@ -33,4 +33,4 @@
 ## Meet me 💬 
 
 [Linkedin](https://www.linkedin.com/in/ester-karen/meetme/Linkedin/)
-[Instagram](https://www.instagram.com/esterfirmo_/meetme/Instagram)
+[Instagram](https://www.instagram.com/esterfirmo_/meetme/Instagram/)
