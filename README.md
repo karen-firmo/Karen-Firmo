@@ -14,7 +14,7 @@
 ## About me 🙋‍♀️
 
 
-- 🌱 I am always expanding my knowledge in JavaScript, Vue, Flutter, React 
+- 🌱 I'm always expanding my knowledge in JavaScript, Vue, Flutter, React 
    and NodeJS, GIT
 
 - 👯 I'm looking to collaborate on social impact projects
