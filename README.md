@@ -1,6 +1,6 @@
 # Hello World, I'm Karen 🌍👋
 
-![Alt Text](https://o.remove.bg/downloads/fd83a76e-fd97-44fa-a262-7251832803ee/f108eba3bfb6dc43be861b3fd697eceb-removebg-preview.png)
+![Alt Text](https://www.reduzfoto.com.br/download.php?q=21_10_2020_01_51_39.jpg)
 ---- 
 
 ## I'm a Front-end Developer 👩‍💻 
