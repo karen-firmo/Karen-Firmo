@@ -32,5 +32,5 @@
 
 ## Meet me 💬 
 
-[Linkedin](https://www.linkedin.com/in/ester-karen//licenses/Linkedin/)
-[Instagram](https://www.instagram.com/esterfirmo_//licenses/Instagram)
+[Linkedin](https://www.linkedin.com/in/ester-karen/Linkedin/)
+[Instagram](https://www.instagram.com/esterfirmo_/Instagram)
