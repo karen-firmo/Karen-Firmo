@@ -1,7 +1,10 @@
 # Hello World, I'm Karen 🌍👋
 
----- 
+ # ![Banana](https://o.remove.bg/downloads/75aa1c63-7fbc-4175-8a56-f1e8c56ecbb7/18c08cb1bc8733590e03bd65e3fd8f44-removebg-preview.png)
 
+
+
+---- 
 
 ## I'm a Front-end Developer 👩‍💻 
 
