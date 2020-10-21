@@ -7,9 +7,9 @@
 
 ## Things I like to do 📋
 
-- 🎨 Interfaces*
-- 🖥 Web Applications*
-- 📱 Applications*
+- 🎨 Interfaces 
+- 🖥 Web Applications
+- 📱 Applications
 
 ## About me 🙋‍♀️
 
