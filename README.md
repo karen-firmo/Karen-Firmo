@@ -1,6 +1,6 @@
 # Hello World, I'm Karen 🌍👋
 
-![Logo do R](https://i.pinimg.com/564x/89/08/bd/8908bd297eb0a23502c3c5c68f27b661.jpg)
+![Logo do R]https://i.pinimg.com/564x/e3/70/b8/e370b8aefdca765e6ece190481df69b3.jpg)
 
 ---- 
 
