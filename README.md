@@ -1,4 +1,4 @@
-# Hello World, I'm Karen🌍👋
+# Hello World, I'm Karen 🌍👋
 
 ---- 
 
