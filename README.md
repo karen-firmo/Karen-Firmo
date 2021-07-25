@@ -1,6 +1,6 @@
 # Hello World, I'm Karen 🌍👋
 
-![Logo do R](https://i.pinimg.com/originals/52/2e/0c/522e0ce4f76271fa6a314e9dc3aa37f1.gif)
+![Logo do R] (https://i.pinimg.com/564x/8b/7d/77/8b7d7728042fb69b600db23b37c58099.jpg)
 ---- 
 
 ## I'm a Front-end Developer 👩‍💻 
