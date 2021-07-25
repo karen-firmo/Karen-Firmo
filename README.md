@@ -29,5 +29,5 @@
 
 
 ## Meet me 💬 
-*[Linkedin](https://www.linkedin.com/in/ester-karen/)
-*[Instagram](https://www.instagram.com/esterfirmo_/)
+. [Linkedin](https://www.linkedin.com/in/ester-karen/)
+. [Instagram](https://www.instagram.com/esterfirmo_/)
