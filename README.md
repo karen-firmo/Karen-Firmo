@@ -1,5 +1,5 @@
 # Hello World, I'm Karen 🌍👋
-![Alt ou título da imagem](https://i.pinimg.com/564x/8b/7d/77/8b7d7728042fb69b600db23b37c58099.jpg)
+![Alt ou título da imagem](https://i.pinimg.com/564x/51/c3/1d/51c31d74ab0c2d437165556f3c5f87a0.jpg)
 ---- 
 
 ## I'm a Front-end Developer 👩‍💻 
