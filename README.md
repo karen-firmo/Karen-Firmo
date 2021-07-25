@@ -19,7 +19,7 @@
 
 - 👯 I'm looking to collaborate on social impact projects
 
-- 💻 Working to face all the challenges that lie ahead.
+- 💻 Working to face all the challenges  que tenho pela fernte.
 
 
 
