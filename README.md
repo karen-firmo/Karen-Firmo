@@ -18,7 +18,7 @@
 
 - 👯 I'm looking to collaborate on social impact projects
 
-- 💻 Working to face all the challenges  que tenho pela fernte.
+- 💻 Working to face all the challenges  que terei pela frente.
 
 
 
