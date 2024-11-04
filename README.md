@@ -47,8 +47,8 @@
 
 
 ----
-
-![karen-firmo GitHub Stats](https://github-readme-stats.vercel.app/api?username=karen-firmo&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karen-firmo&show_icons=true)
+![karen-firmo GitHub Stats](https://github-readme-stats.vercel.app/api?username=karen-firmo&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karen-firmo&show_icons=true&theme=dark)
 
 
 
