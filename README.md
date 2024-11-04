@@ -11,7 +11,7 @@
 
   
 
-- 💼 I am a Quality Analyst at Positivo Educacional.
+- 💼 Quality Analyst at Positivo Educacional.
 
   
 
