@@ -23,7 +23,7 @@
 
   
 
-- 💬 Ask me about anything [here](https://github.com/karen-firmo/Karen-Firmo)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/ester-karen/)
 
    
 <br  />  
