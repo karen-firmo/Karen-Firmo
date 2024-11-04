@@ -1,4 +1,4 @@
-## Hello, I'm Ester Firmo! 👋
+## Hello, I'm Ester Firmo! 👋⭐ 
   <!--  <p  align="center"><img  width="20%" height="20%" align="center" alt="Hello, I'm Beatriz C. Araújo!"  <img src="https://i.ibb.co/cv1VTQT/icon-github.png" alt="icon-github"
 </p>-->
 
