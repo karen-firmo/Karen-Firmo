@@ -31,17 +31,9 @@
 
 ## ⭐ GitHub Stats
 
-## Estatísticas do GitHub
-
-## Estatísticas do GitHub
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Aqui estão algumas estatísticas sobre meu perfil e as principais linguagens que uso.
-
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=karen-firmo&show_icons=true&theme=dark&hide_title=true" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-firmo&show_icons=true&theme=dark&hide_title=true" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=karen-firmo&show_icons=true&theme=radical&hide_title=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-firmo&show_icons=true&theme=merko&hide_title=true" width="300" />
 </div>
 
 
