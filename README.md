@@ -30,10 +30,11 @@
 
 
 ## ⭐ GitHub Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=karen-firmo&show_icons=true&theme=dark&card_width=400&hide_title=true" width="400" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-firmo&show_icons=true&theme=dark&card_width=400&hide_title=true" width="400" />
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=karen-firmo&show_icons=true&theme=dark&hide_title=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-firmo&show_icons=true&theme=dark&hide_title=true" width="400" />
 </div>
+
 
 
 
