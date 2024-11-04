@@ -19,7 +19,7 @@
 
   
 
-- ❤️ I love learning new things, and if the subject is development and automated testing, I'm all in with a cup of coffee!
+- ❤️ I love learning new things, and if the subject is development and automated testing, I’m in with a cup of coffee!
 
   
 
