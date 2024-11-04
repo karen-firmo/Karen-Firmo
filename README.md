@@ -26,19 +26,7 @@
 - 💬 Ask me about anything [here](https://github.com/karen-firmo/Karen-Firmo)
 
    
-<br  />
-
-## 💻 My technology Stack 
-
-<code><img  height="40"  alt="javascript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img src="https://i.ibb.co/qjYQnJv/download-4.jpg" height="45"></code>
- <code><img src="https://i.ibb.co/4Sc7qKn/images-2.png" height="45"></code>
-<code><img src="https://i.ibb.co/Bg9W5Jk/download.png" height="45"></code> 
-<code><img src="https://i.ibb.co/D1WW3cd/download-1.png" height="45"></code>
-<code><img src="https://i.ibb.co/zbKzdMy/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-an.png" height="40"></code>
-
-  
-  
+<br  />  
 
 
 ## ⭐ GitHub Stats
